@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "name": "Michael Scott",
+    "image": "michael.png",
+    "occupation": "Regional Manager - Scranton",
+    "phone": "272-555-5000"
+  },
+  {
+    "id": 2,
+    "name": "Andy Bernard",
+    "image": "andy.png",
+    "occupation": "Regional Director in Charge of Sales",
+    "phone": "272-555-5001"
+  },
+  {
+    "id": 3,
+    "name": "Angela Martin",
+    "image": "angela.png",
+    "occupation": "Head of the accounting department",
+    "phone": "272-555-5002"
+  },
+  {
+    "id": 4,
+    "name": "Dwight Schrute",
+    "image": "dwight.png",
+    "occupation": "Salesman/Assistant to the regional manager",
+    "phone": "272-555-5003"
+  },
+  {
+    "id": 5,
+    "name": "Erin Hannon",
+    "image": "erin.png",
+    "occupation": "Office Receptionist",
+    "phone": "272-555-5004"
+  },
+  {
+    "id": 6,
+    "name": "Jim Halpert",
+    "image": "jim.png",
+    "occupation": "Salesman/Assistant Regional Manager",
+    "phone": "272-555-5005"
+  },
+  {
+    "id": 7,
+    "name": "Kevin Malone",
+    "image": "kevin.png",
+    "occupation": "Accountant",
+    "phone": "272-555-5006"
+  },
+  {
+    "id": 8,
+    "name": "Meredith Palmer",
+    "image": "meredith.png",
+    "occupation": "Supplier Relations Representative",
+    "phone": "272-555-5007"
+  },
+  {
+    "id": 9,
+    "name": "Pam Beesley",
+    "image": "pam.png",
+    "occupation": "Saleswoman/Office Administrator",
+    "phone": "272-555-5008"
+  },
+  {
+    "id": 10,
+    "name": "Ryan Howard",
+    "image": "ryan.png",
+    "occupation": "Salesman",
+    "phone": "272-555-5009"
+  },
+  {
+    "id": 11,
+    "name": "Toby Flenderson",
+    "image": "toby.png",
+    "occupation": "Human Resources",
+    "phone": "272-555-5010"
+  }
+]
